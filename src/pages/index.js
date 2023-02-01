@@ -9,6 +9,7 @@ const Home = () => {
 
 return (
 	<div>
+	<div className='main'>
 		<img src='leash.jpg' alt='clifford on a leash' />
 		<h1>Nick's Dog Walking</h1>
 		<p>
@@ -60,6 +61,7 @@ return (
 			<p> Call or Text 504-251-2985</p>
 			<p> Email: benmont667@gmail.com</p>
 		</section>
+	</div>
 	</div>
 );
 };

@@ -26,6 +26,9 @@ body {
     -moz-osx-font-smoothing: grayscale;
     background-color: lightgray;
 }
+.main{
+  margin: 0 40px;
+}
 .headLine{
   font-size: 30px;
 }
@@ -36,7 +39,9 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
 }
-  
+h3, h1, h2{
+  color: maroon
+}
 #splashImg {
     height: 300px;
     width: 100%;
