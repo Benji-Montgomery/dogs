@@ -10,7 +10,7 @@ const Home = () => {
 return (
 	<div>
 	<div className='main'>
-		<img src='leash.jpg' alt='clifford on a leash' />
+		<img src='leash.jpg' id="splashImg" alt='clifford on a leash' />
 		<h1>Nick's Dog Walking</h1>
 		<p>
 			Providing Professional Dog Walking, Cat Sitting, Pet sitting & House Sitting.
